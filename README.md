@@ -1,2 +1,2 @@
-# HackerRank_OOP-Activity
+# HackerRank_OOP-Activity-Algorythm
 C# codes
